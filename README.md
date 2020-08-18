@@ -1,16 +1,14 @@
 
 <div align="center">
   <h1>Clickbox</h1>
+  <strong>Seller-centric e-commerce platform</strong>
 
 ![Deploy](https://static.wixstatic.com/media/3ee851_6e04bd5b6af6405497a30e93d8f812d4~mv2.png/v1/fill/w_424,h_324,al_c/e-commerce2.webp)
 
 </div>
 
-<div align="center">
-  <strong>Seller-centric e-commerce platform</strong>
-</div>
 
-## What makes Saleor special?
+## What makes Clickbox Platform special?
 
 Clickbox Platform is based on Saleor, open source e-commerce platform that has served high-volume companies from branches like publishing and apparel since 2012. Based on Python and Django, the latest major update introduces a modular front end powered by a GraphQL API and written with React and TypeScript.
 
