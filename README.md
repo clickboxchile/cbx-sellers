@@ -1,7 +1,9 @@
-![Deploy](https://static.wixstatic.com/media/3ee851_6e04bd5b6af6405497a30e93d8f812d4~mv2.png/v1/fill/w_424,h_324,al_c/e-commerce2.webp)
 
 <div align="center">
   <h1>Clickbox</h1>
+
+![Deploy](https://static.wixstatic.com/media/3ee851_6e04bd5b6af6405497a30e93d8f812d4~mv2.png/v1/fill/w_424,h_324,al_c/e-commerce2.webp)
+
 </div>
 
 <div align="center">
