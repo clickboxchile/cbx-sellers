@@ -1,8 +1,7 @@
+[![Deploy](https://static.wixstatic.com/media/3ee851_6e04bd5b6af6405497a30e93d8f812d4~mv2.png/v1/fill/w_424,h_324,al_c,q_85,usm_0.66_1.00_0.01/e-commerce2.webp)](https://heroku.com/deploy)
 
 <div align="center">
   <h1>Clickbox</h1>
-[![Deploy](https://static.wixstatic.com/media/3ee851_6e04bd5b6af6405497a30e93d8f812d4~mv2.png/v1/fill/w_424,h_324,al_c,q_85,usm_0.66_1.00_0.01/e-commerce2.webp)](https://heroku.com/deploy)
-
 </div>
 
 <div align="center">
