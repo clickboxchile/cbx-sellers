@@ -9,7 +9,6 @@
 
 </div>
 
-
 ## What makes Clickbox Platform special?
 
 Clickbox Platform is based on Saleor, open source e-commerce platform that has served high-volume companies from branches like publishing and apparel since 2012. Based on Python and Django, the latest major update introduces a modular front end powered by a GraphQL API and written with React and TypeScript.
@@ -33,58 +32,7 @@ Clickbox Platform is based on Saleor, open source e-commerce platform that has s
 
 ## Installation
 
-Saleor requires Python 3.8, Node.js 10.0+, PostgreSQL and OS-specific dependency tools.
-
-[See the Saleor docs](https://docs.saleor.io/docs/developer/installation) for step-by-step installation and deployment instructions.
-
-Note:
-The `master` branch is the development version of Saleor and it may be unstable. To use the latest stable version, download it from the [Releases](https://github.com/mirumee/saleor/releases/) page or switch to a release tag.
-
-The current stable version is 2.10 and you should use this version for all three components:
-
-- Saleor: https://github.com/mirumee/saleor/releases/tag/2.10.2
-- Dashboard: https://github.com/mirumee/saleor-dashboard/releases/tag/2.10.0
-- Storefront: https://github.com/mirumee/saleor-storefront/releases/tag/2.10.3
-
-## Documentation
-
-Saleor documentation is available here: [docs.saleor.io](https://docs.saleor.io)
-
-To contribute, please see the [`mirumee/saleor-docs` repository](https://github.com/mirumee/saleor-docs/).
-
-## Saleor Platform
-
-The easiest way to run all components of Saleor (API, storefront and dashboard) together on your local machine is to use the [saleor-platform](https://github.com/mirumee/saleor-platform) project. Go to that repository for instructions on how to use it.
-
-[View saleor-platform](https://github.com/mirumee/saleor-platform)
-
-## Storefront
-
-For PWA, single-page storefront go to the [saleor-storefront](https://github.com/mirumee/saleor-storefront) repository.
-
-[View storefront demo](https://pwa.saleor.io/)
-
-## Dashboard
-
-For dashboard go to the [saleor-dashboard](https://github.com/mirumee/saleor-dashboard) repository.
-
-[View dashboard demo](https://pwa.saleor.io/dashboard/)
-
-## Demo
-
-Want to see Saleor in action?
-
-[View Storefront](https://pwa.saleor.io/) | [View Dashboard (admin area)](https://pwa.saleor.io/dashboard/)
-
-Or launch the demo on a free Heroku instance.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-Login credentials: `admin@example.com`/`admin`
-
-## Legacy views
-
-If you're interested in using the old version of Saleor, go the [legacy-views](https://github.com/mirumee/legacy-views) repository. It contains the 2.9.0 release, which includes Django-based views and HTML templates of Storefront 1.0 and Dashboard 1.0. Note: this version of Saleor is no longer officially maintained.
+requires Python 3.8, Node.js 10.0+, PostgreSQL and OS-specific dependency tools.
 
 ## License
 
